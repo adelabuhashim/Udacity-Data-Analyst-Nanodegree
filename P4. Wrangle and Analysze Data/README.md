@@ -47,14 +47,14 @@ Detecting and documenting at quality issues and tidiness issues.
 Cleaning each of the issues which documented while assessing.
 
 #### Storing, Analyzing, and Visualizing Data for this Project
-![Image of csv](https://lh3.googleusercontent.com/proxy/6xuImw_7aiJrTQnKEYq5RkKDTvB3ueFjpP-IhBSQObI99W9h7Dc5U_wW60-Y1OW7beyKf49urLIV6cinTBZmsXKMuxhld9BG4pDBTZByvCtQOk3zaiR16ZWtBBYa5sfP8vOl_bSR9_EDP0dBhtuR3x4s8Sef7nOTFJNH)
+![Image of csv](https://cdn.iconscout.com/icon/free/png-512/google-sheets-4-569453.png)
 
 Storing the clean DataFrame(s) in a CSV file with the main one named twitter_archive_master.csv.
 
 Analyzing and visualizing the wrangled data.
 
 #### Reporting for this Project
-![Image of report](https://lh3.googleusercontent.com/proxy/EEgdbpMGVWdwkRejjnF26smo0exNA_sDMB7AfUTiYSRswxWP-CBwEt_9-6FzL4L6DNBhYDmLkNiKjrXShZDrfbGVkJBHKOQ6PAUY6nGfiVj6yupuMysowps59WsSGtFUb5VpLNaeCvP-gFY5kA)
+![Image of report](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGoogle_Docs_logo.svg&psig=AOvVaw3Cql3ltDrwaZtu8JfEH4Cw&ust=1590045922587000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICPm-X0wekCFQAAAAAdAAAAABAD)
 
 * Report on wrangling process.
 * Report on Analyzing and visualizing.
