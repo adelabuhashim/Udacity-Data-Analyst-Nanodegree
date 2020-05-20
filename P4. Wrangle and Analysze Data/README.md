@@ -54,7 +54,7 @@ Storing the clean DataFrame(s) in a CSV file with the main one named twitter_arc
 Analyzing and visualizing the wrangled data.
 
 #### Reporting for this Project
-![Image of report](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGoogle_Docs_logo.svg&psig=AOvVaw3Cql3ltDrwaZtu8JfEH4Cw&ust=1590045922587000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICPm-X0wekCFQAAAAAdAAAAABAD)
+![Image of report](https://lh3.googleusercontent.com/proxy/LwM65_54K_kQNEGB1EvBxnxHuzIzkDp4uvKIVqFeGGh5fyeVX5hR_5SmdemtcwDMGAGXLoZXtpv95N_FjyjEkRJuM6PLWkq9hTfqRtf7fB-Pl4LZ5j3uMD5aRdnaOckvlThS)
 
 * Report on wrangling process.
 * Report on Analyzing and visualizing.
